@@ -1,0 +1,6 @@
+proc(main)
+let a = new (proc (self)
+            letrec h(arg) =
+               print(-(arg, -(0,456)))
+            in ready(h))
+  in send(a, 123)
