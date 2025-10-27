@@ -1,9 +1,8 @@
-SPLASH 2025 Student Research Competition
+KSC2025
 
 
-# On A Multitier Actor Programming Language
+# 멀티티어 액터 프로그래밍 언어의 설계 및 구현
 
-HYEONJIN LEE
 
 
 
