@@ -22,7 +22,9 @@ KSC2025
 
 
 
-# Implementation
+------
+
+## Implementation
 Built on pure functional Haskell, MAPL integrates RPC calculus into Agha’s Actor model
 and supporting real distributed execution on Cloud Haskell.
 
